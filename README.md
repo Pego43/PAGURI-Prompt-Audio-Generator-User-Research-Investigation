@@ -17,7 +17,7 @@ Il lavoro di PAGURI, acronimo di Prompt Audio Generator User Research Investigat
 
 - [x] Release abstract
 
-- [ ] Release code
+- [x] Release code
 
 - [ ] Release setup tutorial
 
