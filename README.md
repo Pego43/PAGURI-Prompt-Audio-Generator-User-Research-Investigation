@@ -23,11 +23,13 @@ Il lavoro di PAGURI, acronimo di Prompt Audio Generator User Research Investigat
 
 
 ###
-
+ 
 ## Acknowledgments
 
+# Paper
 [Investigating Personalization Methods in Text to Music Generation Generation](https://arxiv.org/abs/2309.11140)
 
+# Code
 [DreamSound](https://zelaki.github.io/)
 
 [AudioLDM](https://github.com/haoheliu/AudioLDM)
