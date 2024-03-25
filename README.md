@@ -25,6 +25,7 @@ Il lavoro di PAGURI, acronimo di Prompt Audio Generator User Research Investigat
 ###
  
 ## Acknowledgments
+This code is heavely based on the following references : 
 
 ### Paper
 [Investigating Personalization Methods in Text to Music Generation Generation](https://arxiv.org/abs/2309.11140)
