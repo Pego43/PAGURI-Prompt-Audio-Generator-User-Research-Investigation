@@ -24,7 +24,7 @@ Il lavoro di PAGURI, acronimo di Prompt Audio Generator User Research Investigat
 - [ ] Release setup tutorial
 
 
-## Install the dependencies
+## INSTALL THE DEPENDENCIES
 
 1 - Create an environment in conda : conda create -n myenvpaguri python=3.9
 
@@ -42,7 +42,7 @@ Il lavoro di PAGURI, acronimo di Prompt Audio Generator User Research Investigat
   
 4 - Install the requirements : pip install -r requirements.txt
  
-## Acknowledgments
+## ACKNOWLEDGMENTS
 This code is heavely based on the following references : 
 
 ### Paper
