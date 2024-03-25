@@ -25,13 +25,21 @@ Il lavoro di PAGURI, acronimo di Prompt Audio Generator User Research Investigat
 
 
 ## Install the dependencies
+
 1 - Create an environment in conda : conda create -n myenvpaguri python=3.9
+
 2 - Install Pytorch in your environment : conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
+
 3 - Fill in the following steps in the folder where you want to clone this repo:
+
   3.1 - git lfs install
+  
   3.2 - git clone https://github.com/Pego43/PAGURI-Prompt-Audio-Generator-User-Research-Investigation.git
+  
   3.3 - git lfs install
+  
   3.4 - git clone https://huggingface.co/cvssp/audioldm-m-full
+  
 4 - Install the requirements : pip install -r requirements.txt
  
 ## Acknowledgments
