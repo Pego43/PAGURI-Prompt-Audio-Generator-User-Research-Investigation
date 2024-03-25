@@ -1,6 +1,6 @@
 # P.A.G.U.R.I : Prompt Audio Generator User Research Investigation
 
-[Logo_Paguri.pdf](https://github.com/Pego43/PAGURI-Prompt-Audio-Generator-User-Research-Investigation/files/14741118/Logo_Paguri.1.pdf)
+![Paguri01](https://github.com/Pego43/PAGURI-Prompt-Audio-Generator-User-Research-Investigation/assets/48025739/0cda90b9-abce-4542-84bf-8cf68292879b)
 
 ## ABSTRACT
 
