@@ -1,5 +1,7 @@
 # P.A.G.U.R.I : Prompt Audio Generator User Research Investigation
 
+[Logo_Paguri.pdf](https://github.com/Pego43/PAGURI-Prompt-Audio-Generator-User-Research-Investigation/files/14741118/Logo_Paguri.1.pdf)
+
 ## ABSTRACT
 
 ### English
@@ -25,21 +27,22 @@ strumento text-to-music per generare audio da input testuali e creare modelli pe
 Verranno infine presentati i risultati pertinenti all’interazione tra gli utenti e il modello text-to-music, insieme ai relativi commenti e suggerimenti su come e dove questi strumenti di generazione musicale 
 possono trovare spazio di utilizzo ed essere impiegati al massimo delle loro potenzialità.
 
+
 ## TODO LIST
+
 - [x] Release abstract
 
-- [] Release code
+- [ ] Release code
 
-- [] Release setup tutorial
+- [ ] Release setup tutorial
 
 
 ###
 
-### Acknowledgments
+## Acknowledgments
 This code is heavily based on 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2301.12503-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2309.11140) 
-[![githubio](https://img.shields.io/badge/GitHub.io-Audio_Samples-blue?logo=Github&style=flat-square)](https://zelaki.github.io/) 
+[[Investigating Personalization Methods in Text to Music Generation Generation](https://arxiv.org/abs/2309.11140)(https://zelaki.github.io/)]
 
 [AudioLDM](https://github.com/haoheliu/AudioLDM)
 
