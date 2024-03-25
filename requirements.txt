@@ -1,0 +1,13 @@
+diffusers==0.21.2
+transformers==4.30.2
+accelerate==0.23.0
+pandas==2.1.0
+soundfile==0.12.1
+torchvision==0.15.2
+torchaudio==2.0.2
+audioldm
+ruamel.yaml
+-e git+https://github.com/LAION-AI/CLAP.git@6b1b4b5b4b87f4e19d3836d2ae7d7272e1c69410#egg=laion_clap
+frechet-audio-distance==0.1.2
+torchaudio-augmentations==0.2.4
+tensorboard==2.14.0
